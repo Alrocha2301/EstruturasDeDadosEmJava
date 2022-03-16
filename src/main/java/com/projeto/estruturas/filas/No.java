@@ -1,4 +1,4 @@
-package com.projeto.filas;
+package com.projeto.estruturas.filas;
 
 public class No<T> {
 

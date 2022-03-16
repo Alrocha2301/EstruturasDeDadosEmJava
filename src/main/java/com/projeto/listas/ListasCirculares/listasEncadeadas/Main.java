@@ -1,4 +1,4 @@
-package com.projeto.listasEncadeadas;
+package com.projeto.listas.ListasCirculares.listasEncadeadas;
 
 public class Main {
     public static void main(String[] args) {

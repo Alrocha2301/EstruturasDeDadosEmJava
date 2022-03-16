@@ -1,4 +1,4 @@
-package com.projeto.no;
+package com.projeto.introducao.no;
 
 public class Main {
     public static void main(String[] args) {

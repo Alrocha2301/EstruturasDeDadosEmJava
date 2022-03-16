@@ -1,4 +1,4 @@
-package com.projeto.pilha;
+package com.projeto.estruturas.filas.pilha;
 
 public class Main {
     public static void main(String[] args) {

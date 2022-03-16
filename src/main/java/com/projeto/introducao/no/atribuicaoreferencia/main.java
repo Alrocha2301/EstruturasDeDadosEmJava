@@ -1,4 +1,4 @@
-package com.projeto.atribuicaoreferencia;
+package com.projeto.introducao.no.atribuicaoreferencia;
 
 public class main {
     public static void main(String[] args) {

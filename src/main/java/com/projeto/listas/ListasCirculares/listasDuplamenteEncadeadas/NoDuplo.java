@@ -1,4 +1,4 @@
-package com.projeto.listasDuplamenteEncadeadas;
+package com.projeto.listas.ListasCirculares.listasDuplamenteEncadeadas;
 
 public class NoDuplo<T> {
 

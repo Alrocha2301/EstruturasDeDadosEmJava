@@ -1,6 +1,4 @@
-package com.projeto.listasDuplamenteEncadeadas;
-
-import com.projeto.pilha.No;
+package com.projeto.listas.ListasCirculares.listasDuplamenteEncadeadas;
 
 public class ListaDuplamenteEncadeada<T> {
 

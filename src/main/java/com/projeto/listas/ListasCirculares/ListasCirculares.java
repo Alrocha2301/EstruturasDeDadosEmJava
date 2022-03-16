@@ -1,4 +1,4 @@
-package com.projeto.ListasCirculares;
+package com.projeto.listas.ListasCirculares;
 
 public class ListasCirculares<T> {
 

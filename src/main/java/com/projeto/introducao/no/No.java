@@ -1,12 +1,12 @@
-package com.projeto.ListasCirculares;
+package com.projeto.introducao.no;
 
 public class No<T> {
 
-    private T conteudo;
-    private No<T> noProximo;
+     private T conteudo;
+     private No<T> proximoNo;
 
     public No(T conteudo) {
-        this.noProximo = null;
+        this.proximoNo = null;
         this.conteudo = conteudo;
     }
 
@@ -18,18 +18,18 @@ public class No<T> {
         this.conteudo = conteudo;
     }
 
-    public No<T> getNoProximo() {
-        return noProximo;
+    public No getProximoNo() {
+        return proximoNo;
     }
 
-    public void setNoProximo(No<T> noProximo) {
-        this.noProximo = noProximo;
+    public void setProximoNo(No<T> proximoNo) {
+        this.proximoNo = proximoNo;
     }
 
     @Override
     public String toString() {
         return "No{" +
-                "conteudo=" + conteudo +
+                "conteudo='" + conteudo + '\'' +
                 '}';
     }
 }
